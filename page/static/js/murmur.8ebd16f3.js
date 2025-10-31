@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpages"]=self["webpackChunkpages"]||[]).push([[579],{426:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var r=function(){var t=this;t._self._c;return t._m(0)},u=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"murmur-container"},[e("h1",[t._v("碎碎念")]),e("div",{staticClass:"empty-tip"},[t._v("这里将会展示您的碎碎念内容")])])}],s={name:"MurmurView",data(){return{}}},a=s,i=n(1656),c=(0,i.A)(a,r,u,!1,null,"5fc15768",null),l=c.exports}}]);
+//# sourceMappingURL=murmur.8ebd16f3.js.map

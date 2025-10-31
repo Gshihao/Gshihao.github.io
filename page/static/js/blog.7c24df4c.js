@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpages"]=self["webpackChunkpages"]||[]).push([[19],{9887:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var a=function(){var t=this;t._self._c;return t._m(0)},s=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"blog-container"},[e("h1",[t._v("日志")]),e("div",{staticClass:"empty-tip"},[t._v("这里将会展示您的日志内容")])])}],r={name:"BlogView",data(){return{}}},u=r,i=n(1656),l=(0,i.A)(u,a,s,!1,null,"ba35d1a0",null),c=l.exports}}]);
+//# sourceMappingURL=blog.7c24df4c.js.map
